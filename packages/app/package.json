@@ -56,7 +56,7 @@
 		"react-infinite-scroll-component": "^6.1.0",
 		"react-is": "^18.2.0",
 		"react-query": "3.39.3",
-		"react-redux": "8.1.2",
+		"react-redux": "9.0.1",
 		"react-responsive": "^9.0.2",
 		"react-rnd": "^10.4.1",
 		"react-select": "4.3.1",
