@@ -22,7 +22,7 @@
 		"@kwenta/sdk": "workspace:*",
 		"@material-ui/core": "^4.12.4",
 		"@pythnetwork/pyth-evm-js": "1.17.0",
-		"@rainbow-me/rainbowkit": "0.12.16",
+		"@rainbow-me/rainbowkit": "2.0.1",
 		"@reach/dialog": "0.18.0",
 		"@reduxjs/toolkit": "^1.9.5",
 		"@sentry/browser": "7.61.1",
