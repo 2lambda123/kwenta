@@ -42,4 +42,4 @@ jobs:
         category: "/language:${{matrix.language}}"
         
     - name: eslint-annotations
-      uses: DerLev/eslint-annotations@v2.0.0
+      uses: DerLev/eslint-annotations@v2.0.1
