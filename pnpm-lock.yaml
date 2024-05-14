@@ -81,8 +81,8 @@ importers:
         specifier: ^4.12.4
         version: 4.12.4(@types/react@18.2.22)(react-dom@18.2.0)(react@18.2.0)
       '@pythnetwork/pyth-evm-js':
-        specifier: 1.17.0
-        version: 1.17.0
+        specifier: 1.46.0
+        version: 1.46.0
       '@rainbow-me/rainbowkit':
         specifier: 2.0.5
         version: 2.0.5(@types/react@18.2.22)(react-dom@18.2.0)(react@18.2.0)(viem@2.9.9)(wagmi@0.12.18)
@@ -379,8 +379,8 @@ importers:
         specifier: ^1.0.3
         version: 1.0.3
       '@pythnetwork/pyth-evm-js':
-        specifier: ^1.17.0
-        version: 1.17.0
+        specifier: ^1.46.0
+        version: 1.46.0
       '@synthetixio/wei':
         specifier: ^2.74.4
         version: 2.74.4
@@ -6107,8 +6107,8 @@ packages:
     resolution: {integrity: sha512-MCHKBh/oa/ACBcOgHSv/rCoc0KP2ul1/dKNEWs9jkbXeUUOGmim62tgjv7vYRIodktG+uN9T41rIN03mIJWzvg==}
     dev: false
 
-  /@pythnetwork/pyth-evm-js@1.17.0:
-    resolution: {integrity: sha512-sMIte61VhA+g4wvYQN8L7xdwmvetvcWA42cobnTCblSleCaC/p+OSTPP3ytGF44dn1KM21p8AZkfWZAgcpYE4w==}
+  /@pythnetwork/pyth-evm-js@1.46.0:
+    resolution: {integrity: sha512-p/0vJXG9/dh5RnTIbg2cspqDvZh+Dob6LdK442npSiqOz4dglisqWpBdEgw2w+JUAtphI19sf5lGmeEyPQaoMQ==}
     dependencies:
       '@pythnetwork/price-service-client': 1.6.0
       buffer: 6.0.3
