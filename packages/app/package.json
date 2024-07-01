@@ -38,7 +38,7 @@
 		"date-fns": "2.30.0",
 		"date-fns-tz": "2.0.0",
 		"echarts": "5.5.0",
-		"eslint-config-next": "13.4.13",
+		"eslint-config-next": "14.2.4",
 		"ethers": "6.11.1",
 		"graphql-request": "3.4.0",
 		"i18next": "19.7.0",
